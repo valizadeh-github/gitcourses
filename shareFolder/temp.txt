@@ -1,3 +1,11 @@
+<<<<<<< HEAD
+
+This is Arvin
+=======
 This is Valizadeh
 This is Neo
+<<<<<<< HEAD
 This is Fatemeh 
+=======
+>>>>>>> c02c3534fd5390c89f857c7733932c00e6e7344d
+>>>>>>> 6efd5880586fb30ae9134deabe4d79923925f827
