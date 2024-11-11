@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 
 This is Arvin
+=======
+This is Valizadeh
+This is Neo
+>>>>>>> c02c3534fd5390c89f857c7733932c00e6e7344d
