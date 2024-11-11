@@ -1,1 +1,15 @@
+<<<<<<< HEAD
 this is tajik
+=======
+<<<<<<< HEAD
+
+This is Arvin
+=======
+This is Valizadeh
+This is Neo
+<<<<<<< HEAD
+This is Fatemeh 
+=======
+>>>>>>> c02c3534fd5390c89f857c7733932c00e6e7344d
+>>>>>>> 6efd5880586fb30ae9134deabe4d79923925f827
+>>>>>>> c78d7436d0633eacc88d17a02894f66870ed105c
